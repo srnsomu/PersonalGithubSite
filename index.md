@@ -3,18 +3,12 @@ layout: default
 title: Home
 ---
 
-# Home
+I am an engineer working with the product development team of Philips Healthcare. It's a role where I get to combine my engineering and product development expertise with my passion for medicine to create breakthrough new products.
 
-<br />
-Hey!
+I completed my masters degree at the Integrated Innovation Institute, Carnegiew Mellon university and my Bachelors in Engineering from Bangalore, India.
 
-I'm a roboticist pursuing my masters degree at the Robotics Institute, Carnegie Mellon University. Previously, I was a research intern at the *Robotics Research Center, IIIT Hyderabad*.
+I enjoy working on projects at the intersection of electronics, computer science and medicine. My other passions include playing squash, trivia clubs, working out and public speaking.
 
-I enjoy working on projects at the intersection of electronics, computer science and medicine. When I'm not working, I'm working out. I also enjoy photography, visiting new cities and hiking. I also own and operate a medical diagnostic center in Chennai.
-
-My awesome days as an undergrad at *Velammal Engineering College, Chennai* shall never be forgotten!
-
-Feel free to contact me at ferozenaina [at] gmail [dot] com.
 
 ### Education
 
@@ -90,16 +84,6 @@ __Development Tools:__ bash, Vim, Git, gdb, Valgrind
 \* familiar
 
 
-### Publications
-[Estimating SE(3) elements using a dual-quaternion based linear Kalman filter](http://www.roboticsproceedings.org/rss12/p13.html){:target="_blank"}  
-Robotics Science and Systems 2016. 
-
-[Multimodal Biometric Authentication System Based on Score Level Fusion of Palmprint and Finger Vein](http://link.springer.com/chapter/10.1007/978-81-322-2126-5_60){:target="_blank"}  
-Artificial Intelligence and Evolutionary Algorithms in Engineering Systems. Volume 324. Advances in Intelligent Systems and Computing. Springer. Page 551-560.
-
-
-[Secured Authentication through Integration of Gait and Footprint for Human Identification](http://www.jeet.or.kr/ltkPSWeb/pub/pubfpfile.aspx?ppseq=1116){:target="_blank"}  
-Journal of Electrical Engineering & Technology. Volume 9, Number 6.
 
 ### Coursework
 

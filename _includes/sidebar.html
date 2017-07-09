@@ -20,10 +20,10 @@
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
       {% assign current = page.url | downcase | split: '/' %}
-      <a class="sidebar-nav-item{% if current[1] == 'blog' %} active{% endif %}" href="{{ site.baseurl }}blog">Blog</a>
+      <a class="sidebar-nav-item{% if current[1] == 'blog' %} active{% endif %}" href="{{ site.baseurl }}blog">Portfolio</a>
       <!--<a class="sidebar-nav-item{% if current[1] == 'portfolio' %} active{% endif %}" href="{{ site.baseurl }}portfolio">Portfolio</a>-->
-      <a class="sidebar-nav-item{% if current[1] == 'books' %} active{% endif %}" href="{{ site.baseurl }}books">Books</a>
-      <a class="sidebar-nav-item{% if current[1] == 'countries' %} active{% endif %}" href="{{ site.baseurl }}countries">Countries</a>
+      <a class="sidebar-nav-item{% if current[1] == 'books' %} active{% endif %}" href="{{ site.baseurl }}books">Blog</a>
+      <a class="sidebar-nav-item{% if current[1] == 'countries' %} active{% endif %}" href="{{ site.baseurl }}countries">Resume</a>
       <a class="sidebar-nav-item" href="https://www.linkedin.com/in/ferozenaina" target="_blank">LinkedIn</a>
       <a class="sidebar-nav-item" href="https://github.com/feroze/" target="_blank">GitHub</a>
       <!--<span class="sidebar-nav-item">Currently v{{ site.version }}</span>-->
