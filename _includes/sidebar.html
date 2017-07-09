@@ -1,0 +1,34 @@
+<div class="sidebar">
+
+
+  <div class="container sidebar-sticky">
+
+  <a href="/">
+    <img src="https://github.com/feroze.png?s=400" height="200" width="200" class="avatar" />
+  </a>
+
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+
+      {% assign current = page.url | downcase | split: '/' %}
+      <a class="sidebar-nav-item{% if current[1] == 'blog' %} active{% endif %}" href="{{ site.baseurl }}blog">Blog</a>
+      <!--<a class="sidebar-nav-item{% if current[1] == 'portfolio' %} active{% endif %}" href="{{ site.baseurl }}portfolio">Portfolio</a>-->
+      <a class="sidebar-nav-item{% if current[1] == 'books' %} active{% endif %}" href="{{ site.baseurl }}books">Books</a>
+      <a class="sidebar-nav-item{% if current[1] == 'countries' %} active{% endif %}" href="{{ site.baseurl }}countries">Countries</a>
+      <a class="sidebar-nav-item" href="https://www.linkedin.com/in/ferozenaina" target="_blank">LinkedIn</a>
+      <a class="sidebar-nav-item" href="https://github.com/feroze/" target="_blank">GitHub</a>
+      <!--<span class="sidebar-nav-item">Currently v{{ site.version }}</span>-->
+    </nav>
+
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>

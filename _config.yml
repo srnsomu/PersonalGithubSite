@@ -1,0 +1,32 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        /blog/:categories/:year/:month/:day/:title/
+
+# Setup
+title:            Feroze Naina
+tagline:          'Life+Engineering'
+description:      'Life+Engineering'
+url:              http://feroze.in
+baseurl:          /
+
+author:
+  name:           'Feroze Naina'
+  #url:            https://twitter.com/mdo
+
+paginate:         5
+paginate_path:    "/blog/page:num/"
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+# Gems
+gems: [jekyll-paginate]
+
+# Google services
+google_analytics: UA-46753306-1
