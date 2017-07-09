@@ -6,14 +6,14 @@ highlighter:      rouge
 permalink:        /blog/:categories/:year/:month/:day/:title/
 
 # Setup
-title:            Feroze Naina
-tagline:          'Life+Engineering'
-description:      'Life+Engineering'
-url:              http://feroze.in
+title:            Srinivas Somasundaram
+tagline:          'Innovator+Engineer'
+description:      'Innovator+Engineer'
+url:              http://srinisom.com
 baseurl:          /
 
 author:
-  name:           'Feroze Naina'
+  name:           'Srinivas Somasundaram'
   #url:            https://twitter.com/mdo
 
 paginate:         5
@@ -27,6 +27,3 @@ github:
 
 # Gems
 gems: [jekyll-paginate]
-
-# Google services
-google_analytics: UA-46753306-1
