@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+Hey!
+
 I am an engineer working with the product development team of Philips Healthcare. It's a role where I get to combine my engineering and product development expertise with my passion for medicine to create breakthrough new products.
 
 I completed my masters degree at the Integrated Innovation Institute, Carnegiew Mellon university and my Bachelors in Engineering from Bangalore, India.
@@ -10,15 +12,52 @@ I completed my masters degree at the Integrated Innovation Institute, Carnegiew 
 I enjoy working on projects at the intersection of electronics, computer science and medicine. My other passions include playing squash, trivia clubs, working out and public speaking.
 
 
+### Work Experience
+
+`Dec 2013 - Current`
+__Software Engineer__, Philips Respironics
+
+* Implemented encryption and decryption of data in Philips medical devices.
+
+`Aug 2013 - Nov 2013` 
+__Engineering Consultant__, Bistrobot (Y-Combinator Startup)
+
+* Built a proof of concept robotic bistro that can automatically prepare a sandwich based on user preferences.
+
+`Jan 2013 - May 2013` 
+__Capstone Project at McKesson__, McKesson Automation
+* Created a medication monitoring solution specifically targeted at improving compliance among young adults.
+
+`Nov 2011 - Jul 2011` 
+__Assistant Systems Engineer__, Tata Consultancy Services
+* Worked on the design and implementation of large scale data storage and virtualization systems.
+
+### Technical skills
+
+__Programming:__ C/C++, C#, Java, Arduino
+
+__Web Development:__ HTML5, CSS3, Javascript, Angular JS, jQuery
+
+__Databases:__ SQL (SSMS), Mongo DB, Amazon S3
+
+__System Design:__ Design Patterns, Micro-Services, RestFul Architecture, Rabbit MQ
+
+__Test Frameworks:__ Nunit, MSUnit, Ninject and Moq DI Frameworks
+
+__IDE and Version Control:__ Visual Studio, Eclipse, IntelliJ, TFS, Git
+
+\* familiar
+
+
 ### Education
 
-`2015 - 2016 (Expected)`
+`2012 - 2013`
 __Carnegie Mellon University__  
-MS in Robotics Systems Development, Robotics Institute
+MS in Product Development, Integrated Innovation Institute
 
-`2010 - 2014`
-__Anna University__  
-BE Electronics and Instrumentation Engineering (_First class_)
+`2007 - 2011`
+__Visvesvaraya Technological University__  
+BE Electronics and Communication Engineering
 
 ### Projects
 __Amazon Picking Challenge__
@@ -41,48 +80,6 @@ __Eye movement based computer interaction using Electrooculogram__
 * Designed a circuit to capture Electrooculogram (EOG) signals resulting from corneo-retinal potential using electrodes placed around the eyes.
 * EOG signal was amplified and filtered to remove power-line, skin-contact noise and
 other interference and transmitted to the computer
-
-
-### Work Experience
-
-`May 2016 - August 2016` 
-__Robotics Software Engineering Intern__, Smith & Nephew (formerly Blue Belt Technologies)
-
-* Developed NAVIO prototype for bicruciate-retaining total knee arthroplasy
-
-`June 2014 - April 2015` 
-__Research Assistant__, Robotics Research Center, IIIT Hyderabad
-* Integrated path planning and monocular vision for mobile robot exploration
-* Tested algorithms for dense 3D reconstruction from monocular vision
-* Generated trajectories for overtaking, lane-changing and road intersection maneuvers with
-non-holonomic constraints using Fresnel integrals in MATLAB
-
-`May 2012 - August 2012` 
-__Google Summer of Code Developer__, Tor Project
-* Ported C++ codebase to use Qt Script framework and created modular plugins
-
-`May 2011 - August 2011` 
-__Google Summer of Code Developer__, GStreamer Project
-* Developed rendering presets and video uploader class for PiTiVi video editor.
-
-### Technical skills
-
-__Programming:__ C/C++, Python, MATLAB 
-
-__Libraries:__ ROS, RViz, MoveIt, Gazebo, OpenCV, PCL, CUDA, OpenGL*, Qt
-
-__Tools:__ NI Multisim , NI LabVIEW, Simulink , SolidWorks* , Eagle*
-
-__Robot Platforms:__ UR5, PR2, Pioneer P3DX
-
-__Circuits:__ Signal Processing, Sensor Instrumentation
-
-__OS:__ GNU/Linux, Windows
-
-__Development Tools:__ bash, Vim, Git, gdb, Valgrind
-
-\* familiar
-
 
 
 ### Coursework
